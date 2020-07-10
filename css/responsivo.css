@@ -25,20 +25,6 @@
         max-width: 1100px;
     }
 
-    .descricao {
-        max-width: 280px;
-    }
-
-    .card {
-        display: block;
-    }
-
-    .imagens {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-    }
-
     .inicio {
         display: flex;
         justify-content: center;

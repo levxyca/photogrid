@@ -1,0 +1,62 @@
+/* Gerais */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #DCDCDC;
+}
+
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+/* Header */
+
+.inicio {
+    padding: 5px;
+    text-align: center;
+}
+
+.inicio h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.inicio h2 {
+    font-size: 1.125rem;
+    padding: 15px 10px;
+    line-height: 1.5;
+}
+
+.inicio img{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+}
+
+/* Imagens and Cards */
+
+.imagens img{
+    display: block;
+}
+
+.descricao {
+    background: #fff;
+    padding: 15px 10px;
+    font-size: 0.875rem;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+/* footer */
+
+.footer-text {
+    font-size: 0.875rem;
+    text-align: center;
+    line-height: 1.5;
+}

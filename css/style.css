@@ -4,7 +4,8 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background: #DCDCDC;
+    color: #F0FFF0;
+    background: #252525;
 }
 
 .container {
@@ -35,22 +36,29 @@ body {
     width: 150px;
     height: 150px;
     padding: 20px;
+    border-radius: 50%;
 }
 
 /* Imagens and Cards */
+
+.imagens {
+}
 
 .imagens img{
     display: block;
 }
 
 .descricao {
-    background: #fff;
+    background: #4F4F4F;
     padding: 15px 10px;
     font-size: 0.875rem;
+    text-align: center;
 }
 
 .card {
     margin-bottom: 30px;
+    overflow: hidden;
+    border-radius: 2%;
 }
 
 /* footer */
